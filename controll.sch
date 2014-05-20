@@ -34,7 +34,7 @@ EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
+Sheet 3 3
 Title ""
 Date ""
 Rev ""
@@ -44,19 +44,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 1450 1400 1800 900 
-U 5377D90A
-F0 "DC Bus" 50
-F1 "dcbus.sch" 50
-F2 "DCBUS" I R 3250 1550 60 
-F3 "GND" I R 3250 1950 60 
-F4 "EARTH" I L 1450 2200 60 
-$EndSheet
-$Sheet
-S 1500 3100 1750 900 
-U 537BA57E
-F0 "Controll" 50
-F1 "controll.sch" 50
-$EndSheet
+$Comp
+L MC3PHAC U?
+U 1 1 537BA586
+P 4950 4000
+F 0 "U?" H 5000 2400 60  0000 C CNN
+F 1 "MC3PHAC" H 5000 4200 60  0000 C CNN
+F 2 "" H 5250 4450 60  0000 C CNN
+F 3 "" H 5250 4450 60  0000 C CNN
+	1    4950 4000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
