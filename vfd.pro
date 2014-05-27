@@ -1,4 +1,4 @@
-update=Sun 25 May 2014 09:34:36 PM CEST
+update=Tue 27 May 2014 07:36:22 PM EEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -43,14 +43,12 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
 SubpartIdSeparator=0
 SubpartFirstId=65
-LibDir=
+LibDir=../VFD
 NetFmtName=
 RptD_X=0
 RptD_Y=100
@@ -88,3 +86,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=vfd-cache
+[general]
+version=1

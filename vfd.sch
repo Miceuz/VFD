@@ -30,6 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:vfd-cache
+LIBS:vfd-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
@@ -59,4 +60,18 @@ U 537BA57E
 F0 "Controll" 50
 F1 "controll.sch" 50
 $EndSheet
+Text HLabel 3250 3200 0    60   Input ~ 0
+PWM_U_TOP
+Text HLabel 3250 3300 0    60   Input ~ 0
+PWM_U_BOT
+Text HLabel 3250 3500 0    60   Input ~ 0
+PWM_V_BOT
+Text HLabel 3250 3400 0    60   Input ~ 0
+PWM_V_TOP
+Text HLabel 3250 3700 0    60   Input ~ 0
+PWM_W_BOT
+Text HLabel 3250 3600 0    60   Input ~ 0
+PWM_W_TOP
+Text HLabel 3250 3850 0    60   Input ~ 0
+FAULT
 $EndSCHEMATC

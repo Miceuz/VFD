@@ -30,6 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:vfd-cache
+LIBS:vfd-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
