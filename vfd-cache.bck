@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CPC5001
+D CPC5001 Dual, One Channel Each Direction, Digital Optical Isolator
+K CPC5001 Dual, One Channel Each Direction, Digital Optical Isolator
+F http://www.ixysic.com/home/pdfs.nsf/www/CPC5001.pdf/$file/CPC5001.pdf
+$ENDCMP
+#
+$CMP FOD8012
+D FOD8012 High CMR, Bi-Directional, Logic Gate Optocouple, Vdd 0-6V
+K FOD8012 High CMR, Bi-Directional, Logic Gate Optocouple
+F http://www.fairchildsemi.com/ds/FO/FOD8012.pdf
+$ENDCMP
+#
 #End Doc Library
