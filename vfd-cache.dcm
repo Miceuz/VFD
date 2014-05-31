@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FOD8012
+D FOD8012 High CMR, Bi-Directional, Logic Gate Optocouple, Vdd 0-6V
+K FOD8012 High CMR, Bi-Directional, Logic Gate Optocouple
+F http://www.fairchildsemi.com/ds/FO/FOD8012.pdf
+$ENDCMP
+#
 #End Doc Library
